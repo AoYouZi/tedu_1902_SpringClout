@@ -15,11 +15,6 @@ public class Item {
 	private String name;
 	private Integer number;
 	
-
-	//烦死了，出现莫名其妙的问题
-
-	
-
-	//都保留吧
+//synchonization test secuccess and then test pull down
 }
 
