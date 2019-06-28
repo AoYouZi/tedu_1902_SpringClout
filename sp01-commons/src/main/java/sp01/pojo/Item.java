@@ -15,13 +15,10 @@ public class Item {
 	private String name;
 	private Integer number;
 	
-	//11123456
-	//123456677888
 
 	//烦死了，出现莫名其妙的问题
 
 	
-	//12233445这下可以了吗？
 
 	//都保留吧
 }
