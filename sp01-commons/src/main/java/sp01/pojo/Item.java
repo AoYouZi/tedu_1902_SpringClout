@@ -15,6 +15,6 @@ public class Item {
 	private String name;
 	private Integer number;
 	
-//synchonization test secuccess and then test pull down
+//synchonization
 }
 
